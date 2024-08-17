@@ -1,0 +1,20 @@
+{
+  "name": "ez.discord",
+  "version": "0.0.1",
+  "description": "A powerful JavaScript library to interact with discord.js with added features",
+  "type": "module",
+  "main": "index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sir Aeshki",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
